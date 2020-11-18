@@ -10,25 +10,25 @@ E-commerce Operations | Hyperlocal Online Foodservice Marketplaces | Revenue Man
 <br>
 <!--
 **kavithacd/kavithacd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-🔭 I’m currently working on Augmented Analytics and Conversational AI projects
-<p></p>
-🌱 I’m currently learning Pytorch, Django, Brython and React
-<p></p>
-👯 I’m looking to collaborate on Fintech Product Design and Development
-<p></p>
-💬 Ask me about ML, AI, Product Management, Revenue Management
+<h3>I’m currently working on:</h3> 
+Augmented Analytics and Conversational AI projects
+<h3>I’m currently learning:</h3> Pytorch, Django, Brython and React
+<h3>I’m looking to collaborate on:</h3> 
+Fintech Product Design and Development
+<h3>Ask me about:</h3> 
+ML, AI, Product Management, Revenue Management, SQL, Excel, Python
 <br>
 ⚡ Fun fact: I love travel, food and languages. I can speak English, Hindi, Telugu, Kannada, French and Japanese. I'm learning Dutch, Spanish, Italian and Korean!
 <br>
-You can find me on LinkedIn:
+<h2>You can find me on LinkedIn:<h2>
 <p> </p>
 <a href="https://www.linkedin.com/in/kavitha-chetana-didugu/"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-I pump out my learning in Youtube and Medium:
+<br>
+<h2>I pump out my learning in Youtube and Medium:<h2>
 <p> </p>
 <a href="https://cervio.medium.com/"><img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UCzFH_iBeTYi-kYpArG9pGtw?view_as=subscriber"><img align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
-
+<br>
 <h2>You can reach me on other social sites:</h2>
 <p> </p>
 <a href="https://www.instagram.com/what.i.did.before.i.died/?hl=en"><img align = "left" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
