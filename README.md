@@ -10,12 +10,16 @@ E-commerce Operations | Hyperlocal Online Foodservice Marketplaces | Revenue Man
 <br>
 <!--
 **kavithacd/kavithacd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-- 🔭 I’m currently working on Augmented Analytics and Conversational AI projects
-- 🌱 I’m currently learning Pytorch, Django, Brython and React
-- 👯 I’m looking to collaborate on Fintech Product Design and Development
-- 💬 Ask me about ML, AI, Product Management, Revenue Management
-- ⚡ Fun fact: I love travel, food and languages. I can speak English, Hindi, Telugu, Kannada, French and Japanese. I'm learning Dutch, Spanish, Italian and Korean!
-
+🔭 I’m currently working on Augmented Analytics and Conversational AI projects
+<p></p>
+🌱 I’m currently learning Pytorch, Django, Brython and React
+<p></p>
+👯 I’m looking to collaborate on Fintech Product Design and Development
+<p></p>
+💬 Ask me about ML, AI, Product Management, Revenue Management
+<br>
+⚡ Fun fact: I love travel, food and languages. I can speak English, Hindi, Telugu, Kannada, French and Japanese. I'm learning Dutch, Spanish, Italian and Korean!
+<br>
 You can find me on LinkedIn:
 <p> </p>
 <a href="https://www.linkedin.com/in/kavitha-chetana-didugu/"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
