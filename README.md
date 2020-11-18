@@ -18,7 +18,8 @@ Fintech Product Design and Development
 <h3>Ask me about:</h3> 
 ML, AI, Product Management, Revenue Management, SQL, Excel, Python
 <br>
-⚡ Fun fact: I love travel, food and languages. I can speak English, Hindi, Telugu, Kannada, French and Japanese. I'm learning Dutch, Spanish, Italian and Korean!
+<h3>Fun fact: </h3>
+I love travel, food and languages. I can speak English, Hindi, Telugu, Kannada, French and Japanese. I'm learning Dutch, Spanish, Italian and Korean!
 <br>
 <h2>You can find me on LinkedIn:<h2>
 <p> </p>
