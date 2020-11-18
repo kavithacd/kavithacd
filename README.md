@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 <a href="https://www.linkedin.com/in/kavitha-chetana-didugu/"><img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://cervio.medium.com/"><img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://www.youtube.com/channel/UCzFH_iBeTYi-kYpArG9pGtw?view_as=subscriber"><img align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
