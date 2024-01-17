@@ -3,7 +3,7 @@ My name is Kavitha Chetana Didugu. You can call me Chetana.
 I am a Data Scientist working on enterprise Data Science products. I love learning about the cutting edge research in ML, AI (Natural Language Processing), and Data Visualisation. 
 
 <h2>I have experience in:</h2>
-Requirements Analysis | Prototyping | Data Analysis and Visualisation | Reporting | Analytics Consulting | Explainable AI | Chatbot Design
+Requirements Analysis | Prototyping | Data Analysis and Visualisation | Reporting | Analytics Consulting | Explainable AI | Chatbot Design | Gen AI | LLMs
 
 <h2>I have domain knowledge in:</h2>
 E-commerce Operations | Hyperlocal Online Foodservice Marketplaces | Revenue Management (Airlines, Hotels and Cargo) | Shipping Yard Operations
