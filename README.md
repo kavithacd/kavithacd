@@ -14,7 +14,7 @@ E-commerce Operations | Hyperlocal Online Foodservice Marketplaces | Revenue Man
 Augmented Analytics and Conversational AI projects
 <h3>I’m currently learning:</h3> Pytorch, Django, Brython and React
 <h3>I’m looking to collaborate on:</h3> 
-Fintech Product Design and Development
+Supply Chain and Pricing Product Developement
 <h3>Ask me about:</h3> 
 ML, AI, Product Management, Revenue Management, SQL, Excel, Python
 <br>
